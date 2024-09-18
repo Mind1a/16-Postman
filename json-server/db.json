@@ -79,6 +79,16 @@
         "sami"
       ],
       "price": 11
+    },
+    {
+      "id": "3a0e",
+      "name": "MyPeperoni",
+      "ingredients": [
+        "ingreidnt1",
+        "ingreidnt2",
+        "ingreidnt3"
+      ],
+      "price": 15
     }
   ],
   "sizes": [
